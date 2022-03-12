@@ -51,6 +51,8 @@ Your users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub- https://github.com/NazimAitali
+- Frontend Mentor - https://www.frontendmentor.io/profile/NazimAitali
+- Twitter - https://twitter.com/NazimAitali
+- !linkedIn - https://www.linkedin.com/in/nazimaitali
+
